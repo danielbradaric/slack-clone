@@ -1,3 +1,7 @@
+Live app preview on this link (firebase hosting) => https://slack-clone-da9af.web.app/
+
+You can login on this app using your google account. It use google API for auth popup.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
